@@ -1,0 +1,10 @@
+.yarn*
+.pnp*
+yarn.lock
+
+.vscode*
+
+.prettierrc
+
+.next*
+next-env.d.ts
